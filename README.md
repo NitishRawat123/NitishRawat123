@@ -15,6 +15,16 @@ This is a *italic text*
 
 Actually this is my second repo on github.
 
+To search goto [website](google.com)
+
+## To see the image
+
+1.  item 1
+1.  item 3
+1.  item 2
+     
+
+
 <!--
 **NitishRawat123/NitishRawat123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
